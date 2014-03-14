@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://aditya97.github.io//github/atom.xml" rel="self"/>
-  <link href="http://aditya97.github.io//github/"/>
-  <updated>2014-03-14T13:15:45+05:30</updated>
-  <id>http://aditya97.github.io//github/</id>
+  <link href="http://aditya97.github.io//blog/atom.xml" rel="self"/>
+  <link href="http://aditya97.github.io//blog/"/>
+  <updated>2014-03-14T14:18:45+05:30</updated>
+  <id>http://aditya97.github.io//blog/</id>
   <author>
     <name><![CDATA[Aditya]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Test_post]]></title>
-    <link href="http://aditya97.github.io//github/blog/2014/03/14/test-post/"/>
+    <link href="http://aditya97.github.io//blog/blog/2014/03/14/test-post/"/>
     <updated>2014-03-14T10:15:46+05:30</updated>
-    <id>http://aditya97.github.io//github/blog/2014/03/14/test-post</id>
+    <id>http://aditya97.github.io//blog/blog/2014/03/14/test-post</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>

@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://aditya97.github.io//github/sitemap.xml 
+Sitemap: http://aditya97.github.io//blog/sitemap.xml 
